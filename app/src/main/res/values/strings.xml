@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QRScanner</string>
+    <string name="escanear">Scan</string>
+    <string name="item1">Exportar a Excel</string>
+    <string name="item2">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="radio1">Entrada</string>
+    <string name="radio2">Salida</string>
+</resources>
